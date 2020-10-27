@@ -3,6 +3,9 @@
 <!--
 **ietienam/ietienam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+-->
+
 #### I'm Ini, a Software Developer doing Backend magic at Bloomrydes
 
 - 🏢 I'm currently working at **Bloomrydes**
