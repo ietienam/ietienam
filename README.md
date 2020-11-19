@@ -9,7 +9,7 @@
 #### I'm Ini, a Software Developer doing Backend magic at Bloomrydes
 
 - 🏢 I'm currently working at **Bloomrydes**
-- ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `MongoDb`, `PostgresSQL`, `Sequelize`, `Redis`, `Firebase`, `Socketio`, `Jest`, `ElephantSQL`, `Heroku`, `Github Actions`, `Digital Ocean`, `Nginx`
+- ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `MongoDb`, `PostgresSQL`, `Sequelize`, `Redis`, `Firebase`, `Socketio`, `Jest`, `ElephantSQL`, `Heroku`, `Github Actions`, `Digital Ocean`, `Reverse [roxy with Nginx`
 - 🌱 I’m currently learning **Rust**, **Software Architecture & Design**, **Docker**, **DevOps**, **AWS**, **nginx**
 - 🌍 I'm mostly active within the **Javascript Community**
 - 🌱 Learning all about **Software Architecture & Design**
