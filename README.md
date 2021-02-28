@@ -15,4 +15,7 @@
 - 🌱 Learning all about **Software Architecture & Design**
 - 💬 Ping me about **JavaScript**, **Nodejs**, **Movies** or if you just need to get beat on FIFA
 - 📫 Reach me via: [Twitter](https://twitter.com/etienam_ini) | [Email](mailto:ietienam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ietienam/)
-- ⚡️ Fun fact: Given time, there's nothing I can't learn
+- ⚡️ Fun fact: Given time, there's nothing I can't learn. 
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ietienam&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
