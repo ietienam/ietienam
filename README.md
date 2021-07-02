@@ -9,8 +9,8 @@
 #### I'm Ini, a Software Developer doing Backend magic at Infostrategy Technology(iRecharge)
 
 - 🏢 I'm currently working at **iRecharge**
-- ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Python`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `Redis`, `Firebase`, `Jest`, `ElephantSQL`, `Heroku`, `Github Actions`, `Digital Ocean`
-- 🌱 I’m currently learning **Software Architecture & Design**, **Docker**, **Elixir**, **AWS**
+- ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `Python`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `PostgresSQL`, `Redis`, `Firebase`, `Jest`, `ElephantSQL`, `Heroku`, `Github Actions`, `Digital Ocean`
+- 🌱 I’m currently learning **Software Architecture & Design**, **Elixir**, **AWS**
 - 🌍 I'm mostly active within the **Javascript Community**
 - 🌱 Learning all about **Software Architecture & Design**
 - 💬 Ping me about **JavaScript**, **Nodejs**, **laravel**, **Movies** or if you just need to get beat on FIFA
