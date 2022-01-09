@@ -10,7 +10,7 @@
 
 - 🏢 I'm currently working at **Pipedrive**
 - ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `Python`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `PostgresSQL`, `Redis`, `Firebase`, `Jest`, `Heroku`, `Github Actions`, `Digital Ocean`
-- 🌱 I’m currently learning **Software Architecture & Design**, **Kotlin**, **AWS**
+- 🌱 I’m currently learning **Software Architecture & Design**, **AWS**
 - 🌍 I'm mostly active within the **Javascript Community**
 - 🌱 Learning all about **Software Architecture & Design**
 - 💬 Ping me about **JavaScript**, **Nodejs**, **laravel**, **Movies** or if you just need to get beat on FIFA
