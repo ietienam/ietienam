@@ -6,7 +6,7 @@
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 -->
 
-#### I'm Ini, a Software Developer doing Backend magic at Machine Ventures, Singapore
+#### I'm Ini, a Software Developer doing Backend magic at Pipedrive, Tallinn
 
 - 🏢 I'm currently working at **Machine Ventures**
 - ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `Python`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `PostgresSQL`, `Redis`, `Firebase`, `Jest`, `Heroku`, `Github Actions`, `Digital Ocean`
