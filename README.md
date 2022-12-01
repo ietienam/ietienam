@@ -18,7 +18,7 @@
 - ⚡️ Fun fact: Given time, there's nothing I can't learn. 
 <p align='center'>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ietienam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ietienam&private=true&layout=compact&langs_count=6&theme=cobalt2")
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ietienam)
 </p>
