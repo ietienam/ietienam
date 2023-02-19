@@ -6,7 +6,7 @@
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 -->
 
-#### I'm Ini, a Backend Engineer doing Backend magic at 3RM.CO
+#### I'm Ini, a Backend Engineer
 
 - 🏢 I'm currently working at **Pipedrive**
 - ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `Python`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `Redis`, `PostgresSQL`, `Redis`, `Firebase`, `Jest`, `Heroku`, `Github Actions`, `Digital Ocean`
