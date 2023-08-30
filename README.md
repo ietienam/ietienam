@@ -18,7 +18,6 @@
 - ⚡️ Fun fact: Given time, there's nothing I can't learn. 
 <p align='center'>
     
-![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ietienam"/>)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ietienam)
 </p>
