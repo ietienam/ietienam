@@ -8,7 +8,6 @@
 
 #### I'm Ini, a Backend Engineer
 
-- 🏢 I'm currently working at **Pipedrive**
 - ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `Redis`, `PostgresSQL`, `Redis`, `Firebase`, `Jest`, `Github Actions`
 - 🌱 I’m currently learning **Software Architecture & Design**, **AWS**
 - 🌍 I'm mostly active within the **Javascript Community**
