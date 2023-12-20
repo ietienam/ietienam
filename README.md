@@ -8,12 +8,12 @@
 
 #### I'm Ini, a Backend Engineer
 
-Here's a bit of my Backend knowledge on [Medium](https://medium.com/@ietienam/building-a-nestjs-api-gateway-with-grpc-microservice-35c900eba85e)
+Here's a bit of my Backend knowledge on [Medium](https://medium.com/@ietienam)
 
 - ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `Redis`, `PostgresSQL`, `Redis`, `Firebase`, `Jest`, `Github Actions`
 - 🌍 I'm mostly active within the **Javascript Community**
 - 💬 Ping me about **JavaScript**, **Nodejs**, **Movies** or if you just need to get beat on FIFA
-- 📫 Reach me via: [Twitter](https://twitter.com/etienam_ini) | [LinkedIn](https://www.linkedin.com/in/ietienam/)
+- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/ietienam/)
 - ⚡️ Fun fact: Given time, there's nothing I can't learn. 
 <p align='center'>
     
