@@ -23,7 +23,7 @@ I write on [Medium](https://medium.com/@ietienam)
 
 
   <a href="https://github.com/ietienam">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ietienam&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Language Stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ietienam&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="ietienam's Language Stats" />
   </a>
   
   <a href="https://github.com/ietienam">
